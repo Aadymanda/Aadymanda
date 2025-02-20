@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello,+I+am+Aadarsh!;I+am+a+Passionate+Developer!;I+love+Java+and+Web+Development!;Problem-Solving+is+my+superpower!;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Hello,+I+am+Aadarsh!;I+am+a+Passionate+Developer!;I+love+Java+and+Web+Development!;">
 </p>
 
 <p align="center">
@@ -35,25 +35,14 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadymanda&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadymanda&theme=radical&hide_border=false" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadymanda&theme=radical&layout=compact&hide_border=false" alt="Top Languages">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Aadymanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aadymanda&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadymanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aadymanda&icon=8&color=11)](https://visitcount.itsvg.in)
 
-# 🎨 Animated Image:
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
-</p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aadymanda&label=Profile%20Views&color=11&icon=8&pretty=true" alt="Profile Views">
-</p>
 
 <!-- Made with ❤️ by Aadarsh -->
